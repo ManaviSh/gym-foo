@@ -10,10 +10,10 @@ Gym is a toolkit for developing and comparing Reinforcement Learning algorithms.
 
 # Install Environment
 To install the environment, just go to the gym-foo folder and run the command -
-pip install -e 
+[pip install -e ]
 # Use Environnment
-import gym
+[import gym
 import gym_foo
-env = gym.make('foo-v0')
+env = gym.make('foo-v0')]
 
 This is still in making, suggestions appreciated.
